@@ -33,8 +33,8 @@ Siga os passos abaixo para configurar o ambiente e executar a análise.
 ### 1. Clone o Repositório
 
 ```bash
-git clone [https://github.com/evertonreis1/LH_CD_EVERTON_REIS.git](https://github.com/evertonreis1/LH_CD_EVERTON_REIS.git)
-cd seu-repositorio
+git clone https://github.com/evertonreis1/LH_CD_EVERTON_REIS.git
+cd LH_CD_EVERTON_REIS
 ```
 
 ### 2. Crie um Ambiente Virtual
